@@ -1,4 +1,4 @@
-(View Full Project Requirements here)[https://docs.google.com/document/d/1wSQQMF8SR2xensW0XbYvlvkEUqDIgUquJ-wEcwjDwQ8/edit?usp=sharing]
+[View Full Project Requirements Here](https://docs.google.com/document/d/1wSQQMF8SR2xensW0XbYvlvkEUqDIgUquJ-wEcwjDwQ8/edit?usp=sharing)
 
 # Project Requirements
 
