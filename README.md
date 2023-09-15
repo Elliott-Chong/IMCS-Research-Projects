@@ -1,4 +1,5 @@
 [View Full Project Requirements Here](https://docs.google.com/document/d/1wSQQMF8SR2xensW0XbYvlvkEUqDIgUquJ-wEcwjDwQ8/edit?usp=sharing)
+[View Walkthrough Video Here](https://youtu.be/Wj5OeDM30Jo)
 
 ## Note: You may use the global VSCode search to find the following text: "@Elliott" to find my comments and notes.
 
