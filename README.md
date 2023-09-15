@@ -1,5 +1,7 @@
 [View Full Project Requirements Here](https://docs.google.com/document/d/1wSQQMF8SR2xensW0XbYvlvkEUqDIgUquJ-wEcwjDwQ8/edit?usp=sharing)
 
+## Note: You may use the global VSCode search to find the following text: "@Elliott" to find my comments and notes.
+
 # Project Requirements
 
 ## 1. Collaborative BE Form
