@@ -4,7 +4,7 @@
 - Socket.io
 - Bun
 - TailwindCSS
-- [https://jsonforms.io/] (JSON Forms)
+- [JSON Forms] (https://jsonforms.io/)
 
 ## How to run:
 
@@ -15,7 +15,7 @@
 
 ## What Next:
 
-- [ ] [https://jsonforms.io/](Understand the basics of JsonForms) to understand the forms library
+- [ ] [Understand the basics of JsonForms](https://jsonforms.io/) to understand the forms library
 - [ ] Add a backend database to store the data
 - [ ] Add a login system
 - [ ] Map out the rest of the BE form

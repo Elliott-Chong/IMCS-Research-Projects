@@ -4,7 +4,7 @@
 - Socket.io
 - Bun
 - TailwindCSS
-- [https://gojs.net/latest/samples/regrouping.html](Go.js)
+- [Go.js](https://gojs.net/latest/samples/regrouping.html)
 
 ## How to run:
 
@@ -15,7 +15,7 @@
 
 ## What Next:
 
-- [ ] [https://gojs.net/latest/learn/](Understand the basics of Go.js) to understand the visualisation library
+- [ ] [Understand the basics of Go.js](https://gojs.net/latest/learn/) to understand the visualisation library
 - [ ] Add a backend database to store the data
 - [ ] Add a login system
 - [ ] Add a way to save the data as an image

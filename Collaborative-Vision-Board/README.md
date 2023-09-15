@@ -4,7 +4,7 @@
 - Socket.io
 - Bun
 - TailwindCSS
-- [https://github.com/atlassian/react-beautiful-dnd](react-beautiful-dnd) for drag and drop functionality
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) for drag and drop functionality
 
 ## How to run:
 
@@ -15,7 +15,7 @@
 
 ## What Next:
 
-- [ ] [https://github.com/atlassian/react-beautiful-dnd](Understand the basics of react-beautiful-dnd) to understand how to use their drag and drop API
+- [ ] [Understand the basics of react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) to understand how to use their drag and drop API
 - [ ] Add a backend database to store the data
 - [ ] Add a login system
 - [ ] CRUD functionality for the tasks
