@@ -14,6 +14,7 @@ const FlowchartDiagram: React.FC<Props> = ({ modelJson, setModelJson }) => {
   const paletteDivRef = useRef<HTMLDivElement | null>(null);
   React.useEffect(() => {
     if (myDiagram.current && modelJson) {
+      // @Elliott this is where you would apply the incrementalJSON to the model that is received from websockets
       console.log(modelJson);
       myDiagram.current.model.applyIncrementalJson(modelJson);
     }
@@ -331,7 +332,7 @@ const FlowchartDiagram: React.FC<Props> = ({ modelJson, setModelJson }) => {
 
     // Initialize the diagram
     init();
-  }, [modelJson]);
+  }, [modelJson, setModelJson]);
 
   return (
     <div
